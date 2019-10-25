@@ -1,0 +1,72 @@
+{
+  "id": "1308805",
+  "name": "共业小程序",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "925578",
+      "name": "问号",
+      "font_class": "doubt",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "1022323",
+      "name": "账户信息",
+      "font_class": "zhanghuxinxi",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "1530580",
+      "name": "感叹号",
+      "font_class": "warning",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "2348430",
+      "name": "上传照片",
+      "font_class": "shangchuanzhaopian",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "2366026",
+      "name": "播报",
+      "font_class": "bobao",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "4435683",
+      "name": "记事本",
+      "font_class": "lanhaiguifantubiao-",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "6196639",
+      "name": "拍摄",
+      "font_class": "paishe",
+      "unicode": "e988",
+      "unicode_decimal": 59784
+    },
+    {
+      "icon_id": "7317760",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "9665944",
+      "name": "删  除",
+      "font_class": "shanchu",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    }
+  ]
+}
