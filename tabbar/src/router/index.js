@@ -18,22 +18,37 @@ const routes = [
   },
   {
     path:"/index",
-    component: Index
+    component: Index,
+    meta:{
+      title:"首页"
+    }
   },
   {
     path:"/task",
-    component: Task
+    component: Task,
+    meta:{
+      title: "任务单"
+    }
   },
   {
     path:"/user",
-    component: User
+    component: User,
+    meta:{
+      title: "个人中心"
+    }
   }
 ]
+
 
 const router = new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
   routes
+})
+
+router.beforeEach((to, from ,next)=>{
+  document.title = to.meta.title
+  next()  
 })
 
 export default router
